@@ -19,9 +19,6 @@ This is a Tableau project built during my internship at Unified Mentor Pvt Ltd. 
 - Tooltip descriptions for series codes
 - Time-based trend visualization
 
-## 🏁 Output Preview
-*(Add a few images here if possible)*
-
 ## 📎 Data Source
 [World Bank ESG Dataset] Unified Mentor Pvt Ltd
 
